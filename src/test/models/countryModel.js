@@ -18,3 +18,4 @@ describe("src/models/country", () => {
       ["name", "capital", "population"].forEach(checkPropertyExists(country));
     });
   });
+  
